@@ -1,0 +1,13 @@
+   60    60  5425 inflammation-01.csv
+   60    60  5374 inflammation-02.csv
+   60    60  5403 inflammation-03.csv
+   60    60  5427 inflammation-04.csv
+   60    60  5405 inflammation-05.csv
+   60    60  5390 inflammation-06.csv
+   60    60  5402 inflammation-07.csv
+   60    60  5412 inflammation-08.csv
+   60    60  5387 inflammation-09.csv
+   60    60  5402 inflammation-10.csv
+   60    60  5423 inflammation-11.csv
+   60    60  5400 inflammation-12.csv
+  720   720 64850 total
